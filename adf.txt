@@ -1,3 +1,2 @@
 what's good
-asdfasdf
-aaaaaaaaaaa
+conflict resolved
